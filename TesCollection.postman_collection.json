@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8a251ebe-3ea7-4c62-bd92-1119c8226e33",
+		"name": "TesCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45402189"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://onliner.by",
+					"protocol": "https",
+					"host": [
+						"onliner",
+						"by"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
